@@ -1,5 +1,5 @@
-import Faq from "./faq";
+import StarRating from "./starRating";
 
 export default function App() {
-  return <Faq />;
+  return <StarRating />;
 }
