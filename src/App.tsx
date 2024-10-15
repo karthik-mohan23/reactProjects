@@ -1,5 +1,6 @@
-import StarRating from "./starRating";
+
+import TaskApp from "./todo";
 
 export default function App() {
-  return <StarRating />;
+  return <TaskApp />;
 }
