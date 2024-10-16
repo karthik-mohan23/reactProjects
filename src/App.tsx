@@ -1,6 +1,5 @@
-
-import TaskApp from "./todo";
+import Carousal from "./carousal";
 
 export default function App() {
-  return <TaskApp />;
+  return <Carousal />;
 }
