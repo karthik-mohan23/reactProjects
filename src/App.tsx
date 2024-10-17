@@ -1,5 +1,5 @@
-import StopWatch from "./stopwatch";
+import ProgressBar from "./progressBar";
 
 export default function App() {
-  return <StopWatch />;
+  return <ProgressBar />;
 }
