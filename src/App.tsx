@@ -1,5 +1,5 @@
-import Carousal from "./carousal";
+import StopWatch from "./stopwatch";
 
 export default function App() {
-  return <Carousal />;
+  return <StopWatch />;
 }
