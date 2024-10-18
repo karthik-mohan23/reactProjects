@@ -1,5 +1,5 @@
-import ProgressBar from "./progressBar";
+import Tabs from "./tabs";
 
 export default function App() {
-  return <ProgressBar />;
+  return <Tabs />;
 }
