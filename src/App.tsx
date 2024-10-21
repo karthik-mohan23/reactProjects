@@ -1,5 +1,5 @@
-import TicTacToe from "./tictactoe";
+import Counter from "./counter";
 
 export default function App() {
-  return <TicTacToe />;
+  return <Counter />;
 }
