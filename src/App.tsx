@@ -1,5 +1,5 @@
-import Modal from "./modal";
+import TicTacToe from "./tictactoe";
 
 export default function App() {
-  return <Modal />;
+  return <TicTacToe />;
 }
