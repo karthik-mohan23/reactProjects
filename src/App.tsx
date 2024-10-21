@@ -1,5 +1,5 @@
-import Counter from "./counter";
+import DebounceComponent from "./debounce";
 
 export default function App() {
-  return <Counter />;
+  return <DebounceComponent />;
 }
